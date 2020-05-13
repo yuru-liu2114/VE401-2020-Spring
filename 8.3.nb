@@ -1,0 +1,63 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1644,         55]
+NotebookOptionsPosition[      1156,         37]
+NotebookOutlinePosition[      1569,         54]
+CellTagsIndexPosition[      1526,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"InverseCDF", "[", 
+  RowBox[{
+   RowBox[{"StudentTDistribution", "[", "40", "]"}], ",", "0.95"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.7971412708666525`*^9, 3.7971412953841996`*^9}, {
+  3.7971413335968533`*^9, 3.79714135372829*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"9a37471b-e03a-4533-add0-7b43a6c8c37f"],
+
+Cell[BoxData["1.6838510133356521`"], "Output",
+ CellChangeTimes->{
+  3.7971412981625175`*^9, {3.79714134132238*^9, 3.7971413563722963`*^9}},
+ CellLabel->"Out[3]=",ExpressionUUID->"421d6e95-3217-4d6e-9621-932d81a2efd8"]
+}, Open  ]]
+},
+WindowSize->{571, 418},
+WindowMargins->{{189, Automatic}, {17, Automatic}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (2020\:5e743\:670818\
+\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"73f16f9c-8e6e-4821-a78f-40dc5271e1c6"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 339, 7, 44, "Input",ExpressionUUID->"9a37471b-e03a-4533-add0-7b43a6c8c37f"],
+Cell[922, 31, 218, 3, 54, "Output",ExpressionUUID->"421d6e95-3217-4d6e-9621-932d81a2efd8"]
+}, Open  ]]
+}
+]
+*)
+
